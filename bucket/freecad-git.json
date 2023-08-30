@@ -41,7 +41,7 @@
     ],
     "checkver": {
         "url": "https://api.github.com/repos/FreeCAD/FreeCAD-Bundle/releases/tags/weekly-builds",
-        "jsonPath": "$.assets[*].browser_download_url",
+        "jsonpath": "$.assets[*].browser_download_url",
         "regex": "(?sm)FreeCAD_weekly-builds-(?<version>\\d+)-(?<date>[\\d-]{10})-"
     },
     "autoupdate": {
