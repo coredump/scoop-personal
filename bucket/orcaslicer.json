@@ -1,12 +1,12 @@
 {
-    "version": "1.8.0-rc",
+    "version": "1.8.0-rc2",
     "description": "Orca Slicer is an open source slicer for FDM printers",
     "homepage": "https://github.com/SoftFever/OrcaSlicer",
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SoftFever/OrcaSlicer/releases/download/v1.8.0-rc/OrcaSlicer_Windows_V1.8.0-rc_portable.zip",
-            "hash": "f6d103395f4255732196a1d88080ff7f951dcf31e26a064be8cf51550620863b"
+            "url": "https://github.com/SoftFever/OrcaSlicer/releases/download/v1.8.0-rc2/OrcaSlicer_Windows_V1.8.0-rc2_portable.zip",
+            "hash": "767daa58117990b79992dcadde6e18590e4ed8abf9e2c2dc10b92ca348ddc428"
         }
     },
     "bin": "orca-slicer.exe",
