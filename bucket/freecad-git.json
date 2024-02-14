@@ -1,13 +1,13 @@
 {
-    "version": "35927",
+    "version": "35966",
     "description": "Freecad weekly builds",
     "homepage": "https://www.freecadweb.org",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FreeCAD/FreeCAD-Bundle/releases/download/weekly-builds/FreeCAD_weekly-builds-35927-2024-02-12-conda-Windows-x86_64-py310.7z",
-            "extract_dir": "weekly-builds/FreeCAD_weekly-builds-35927-2024-02-12-conda-Windows-x86_64-py310",
-            "hash": "3bfe508d82b8d6ad2201254d2eda63ad1d7cb4a68f10596064c9729c24c8c933"
+            "url": "https://github.com/FreeCAD/FreeCAD-Bundle/releases/download/weekly-builds/FreeCAD_weekly-builds-35966-2024-02-14-conda-Windows-x86_64-py310.7z",
+            "extract_dir": "weekly-builds/FreeCAD_weekly-builds-35966-2024-02-14-conda-Windows-x86_64-py310",
+            "hash": "31193d16565bdf6d6f2d5d3a59ca182e13580e297baa38cd4a925ace76979dde"
         }
     },
     "pre_install": [
